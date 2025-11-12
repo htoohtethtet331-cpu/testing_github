@@ -6,3 +6,4 @@
   echo "try to change from webpage";
   echo "online";
 
+  echo"local setup"
