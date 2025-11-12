@@ -11,4 +11,5 @@
 echo "fouth line from online"
 
 echo "not commit to stash"
+ echo "I hate error"
 
